@@ -1,0 +1,10 @@
+Literature review on twitter sentiment analysis
+
+A. Sarlan, C. Nadam, S. Basri, "Twitter sentiment analysis" 2014 International Conference of Information technology and multimedia(ICIMU).
+Their study presents categorization of the data into negative and positive sentiments which are futhur visualized in the form of pie chart 
+
+N. Yadav, O. Kudale, S. Gupta, A. Rao, "Twitter sentiment analysis using machine learning for product evaluation" proceedings of 5th international confernce on Inventive Communication technologies
+The work done in this paper allows comparing differnet classifiers to classify a huge number of English tweets related to particular products into positive as well as negative sentiments with high accuracy helping businness organizations to make future plans on marketing and production.
+
+R.Wagh, P.Punde, "Survey on sentiment analysis using twitter dataset",  proceedings of 2th international confernce on electronics, communication and aerospace technology
+This paper defined the concept of opinion mining and sentiment analysis. The study shows the improvement in accuracy when semantic analysis WordNet is followed by the machine learning techniques, like SVM, Naive-Bayes and Maximum entropy. Hence we can say, accuracy increases with hybrid approach.
